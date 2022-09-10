@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [SOLUTION](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [SOLUTION](https://www.frontendmentor.io/solutions/clipboard-landing-page-using-css-flexbox-and-css-grid-DcAeezvmUJ)
+- Live Site URL: [LIVE SITE](https://azizp128.github.io/Clipboard-Landing-Page/)
 
 ## My process
 
